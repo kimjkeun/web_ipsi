@@ -1,0 +1,2616 @@
+{
+  "meta": {
+    "source_file": "02_출결상황.csv",
+    "export_date": "2026.03.04",
+    "school_name": "금옥여자고등학교",
+    "class_grade": 3,
+    "class_no": 8,
+    "user": "김정근"
+  },
+  "students": [
+    {
+      "roster_no": 1,
+      "name": "권하윤",
+      "current_grade": 3,
+      "current_student_id": "30801",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 4,
+          "student_no": 2,
+          "student_id": "10402"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 5,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 6,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 6,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 2,
+          "student_id": "20602"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 1,
+          "student_id": "30801"
+        }
+      ],
+      "student_key": "30801권하윤"
+    },
+    {
+      "roster_no": 2,
+      "name": "김민성",
+      "current_grade": 3,
+      "current_student_id": "30802",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 1,
+          "student_no": 5,
+          "student_id": "10105"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 2,
+          "student_no": 3,
+          "student_id": "20203"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 2,
+          "student_id": "30802"
+        }
+      ],
+      "student_key": "30802김민성"
+    },
+    {
+      "roster_no": 3,
+      "name": "김보경",
+      "current_grade": 3,
+      "current_student_id": "30803",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 7,
+            "unexcused": 6,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 52,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 3,
+          "student_no": 1,
+          "student_id": "10301"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 18,
+            "unexcused": 19,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 15,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "병원 입원(14일)",
+          "class_no": 3,
+          "student_no": 6,
+          "student_id": "20306"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 3,
+          "student_id": "30803"
+        }
+      ],
+      "student_key": "30803김보경"
+    },
+    {
+      "roster_no": 4,
+      "name": "김해림",
+      "current_grade": 3,
+      "current_student_id": "30804",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 7,
+          "student_no": 5,
+          "student_id": "10705"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 5,
+          "student_no": 6,
+          "student_id": "20506"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 4,
+          "student_id": "30804"
+        }
+      ],
+      "student_key": "30804김해림"
+    },
+    {
+      "roster_no": 5,
+      "name": "김희영",
+      "current_grade": 3,
+      "current_student_id": "30805",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 11,
+          "student_id": "10811"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 2,
+          "student_no": 6,
+          "student_id": "20206"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 5,
+          "student_id": "30805"
+        }
+      ],
+      "student_key": "30805김희영"
+    },
+    {
+      "roster_no": 6,
+      "name": "나세현",
+      "current_grade": 3,
+      "current_student_id": "30806",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 4,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 12,
+          "student_id": "10812"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 7,
+          "student_id": "20807"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 6,
+          "student_id": "30806"
+        }
+      ],
+      "student_key": "30806나세현"
+    },
+    {
+      "roster_no": 7,
+      "name": "남유현",
+      "current_grade": 3,
+      "current_student_id": "30807",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 3,
+          "student_no": 4,
+          "student_id": "10304"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 6,
+          "student_no": 10,
+          "student_id": "20610"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 7,
+          "student_id": "30807"
+        }
+      ],
+      "student_key": "30807남유현"
+    },
+    {
+      "roster_no": 8,
+      "name": "두은영",
+      "current_grade": 3,
+      "current_student_id": "30808",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 2,
+          "student_no": 7,
+          "student_id": "10207"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 11,
+          "student_id": "20611"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 8,
+          "student_id": "30808"
+        }
+      ],
+      "student_key": "30808두은영"
+    },
+    {
+      "roster_no": 9,
+      "name": "문예진",
+      "current_grade": 3,
+      "current_student_id": "30809",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 2,
+          "student_no": 8,
+          "student_id": "10208"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 12,
+          "student_id": "20612"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 9,
+          "student_id": "30809"
+        }
+      ],
+      "student_key": "30809문예진"
+    },
+    {
+      "roster_no": 10,
+      "name": "박송희",
+      "current_grade": 3,
+      "current_student_id": "30810",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 9,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 14,
+          "student_id": "10814"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 5,
+          "student_no": 10,
+          "student_id": "20510"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 10,
+          "student_id": "30810"
+        }
+      ],
+      "student_key": "30810박송희"
+    },
+    {
+      "roster_no": 11,
+      "name": "박시원",
+      "current_grade": 3,
+      "current_student_id": "30811",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 2,
+          "student_no": 11,
+          "student_id": "10211"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 9,
+          "student_no": 8,
+          "student_id": "20908"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 11,
+          "student_id": "30811"
+        }
+      ],
+      "student_key": "30811박시원"
+    },
+    {
+      "roster_no": 12,
+      "name": "박정현",
+      "current_grade": 3,
+      "current_student_id": "30812",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 8,
+            "unexcused": 44,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 9,
+          "student_id": "10609"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 3,
+            "unexcused": 18,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 14,
+          "student_id": "20614"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 12,
+          "student_id": "30812"
+        }
+      ],
+      "student_key": "30812박정현"
+    },
+    {
+      "roster_no": 13,
+      "name": "서민채",
+      "current_grade": 3,
+      "current_student_id": "30813",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 9,
+          "student_no": 15,
+          "student_id": "10915"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 5,
+          "student_no": 11,
+          "student_id": "20511"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 13,
+          "student_id": "30813"
+        }
+      ],
+      "student_key": "30813서민채"
+    },
+    {
+      "roster_no": 14,
+      "name": "서예은",
+      "current_grade": 3,
+      "current_student_id": "30814",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 7,
+          "student_no": 10,
+          "student_id": "10710"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 2,
+          "student_no": 12,
+          "student_id": "20212"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 14,
+          "student_id": "30814"
+        }
+      ],
+      "student_key": "30814서예은"
+    },
+    {
+      "roster_no": 15,
+      "name": "서현진",
+      "current_grade": 3,
+      "current_student_id": "30815",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 6,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 3,
+          "student_no": 10,
+          "student_id": "10310"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 15,
+          "student_id": "20615"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 15,
+          "student_id": "30815"
+        }
+      ],
+      "student_key": "30815서현진"
+    },
+    {
+      "roster_no": 16,
+      "name": "선예린",
+      "current_grade": 3,
+      "current_student_id": "30816",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 1,
+          "student_no": 14,
+          "student_id": "10114"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 1,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 7,
+          "student_no": 15,
+          "student_id": "20715"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 16,
+          "student_id": "30816"
+        }
+      ],
+      "student_key": "30816선예린"
+    },
+    {
+      "roster_no": 17,
+      "name": "송효주",
+      "current_grade": 3,
+      "current_student_id": "30817",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 4,
+          "student_no": 9,
+          "student_id": "10409"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 16,
+          "student_id": "20616"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 17,
+          "student_id": "30817"
+        }
+      ],
+      "student_key": "30817송효주"
+    },
+    {
+      "roster_no": 18,
+      "name": "오규리",
+      "current_grade": 3,
+      "current_student_id": "30818",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 5,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 15,
+          "student_id": "10615"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 1,
+          "student_no": 16,
+          "student_id": "20116"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 18,
+          "student_id": "30818"
+        }
+      ],
+      "student_key": "30818오규리"
+    },
+    {
+      "roster_no": 19,
+      "name": "오윤아",
+      "current_grade": 3,
+      "current_student_id": "30819",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 5,
+            "unexcused": 4,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 7,
+          "student_no": 15,
+          "student_id": "10715"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 7,
+            "unexcused": 2,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 4,
+          "student_no": 12,
+          "student_id": "20412"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 19,
+          "student_id": "30819"
+        }
+      ],
+      "student_key": "30819오윤아"
+    },
+    {
+      "roster_no": 20,
+      "name": "이지유",
+      "current_grade": 3,
+      "current_student_id": "30820",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 1,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 7,
+          "student_no": 23,
+          "student_id": "10723"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 9,
+          "student_no": 18,
+          "student_id": "20918"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 20,
+          "student_id": "30820"
+        }
+      ],
+      "student_key": "30820이지유"
+    },
+    {
+      "roster_no": 21,
+      "name": "장윤아",
+      "current_grade": 3,
+      "current_student_id": "30821",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 7,
+          "student_no": 26,
+          "student_id": "10726"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 2,
+          "student_no": 21,
+          "student_id": "20221"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 21,
+          "student_id": "30821"
+        }
+      ],
+      "student_key": "30821장윤아"
+    },
+    {
+      "roster_no": 22,
+      "name": "정시후",
+      "current_grade": 3,
+      "current_student_id": "30822",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 24,
+          "student_id": "10624"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 1,
+            "unexcused": 1,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 5,
+          "student_no": 25,
+          "student_id": "20525"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 22,
+          "student_id": "30822"
+        }
+      ],
+      "student_key": "30822정시후"
+    },
+    {
+      "roster_no": 23,
+      "name": "정지애",
+      "current_grade": 3,
+      "current_student_id": "30823",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 2,
+            "unexcused": 1,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 6,
+          "student_no": 26,
+          "student_id": "10626"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 3,
+          "student_no": 27,
+          "student_id": "20327"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 23,
+          "student_id": "30823"
+        }
+      ],
+      "student_key": "30823정지애"
+    },
+    {
+      "roster_no": 24,
+      "name": "정채윤",
+      "current_grade": 3,
+      "current_student_id": "30824",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 5,
+            "unexcused": 17,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 3,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 1,
+          "student_no": 25,
+          "student_id": "10125"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 6,
+            "unexcused": 22,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 10,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 9,
+            "unexcused": 1,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 9,
+          "student_no": 23,
+          "student_id": "20923"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 24,
+          "student_id": "30824"
+        }
+      ],
+      "student_key": "30824정채윤"
+    },
+    {
+      "roster_no": 25,
+      "name": "주은정",
+      "current_grade": 3,
+      "current_student_id": "30825",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 4,
+          "student_no": 28,
+          "student_id": "10428"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 5,
+          "student_no": 27,
+          "student_id": "20527"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 25,
+          "student_id": "30825"
+        }
+      ],
+      "student_key": "30825주은정"
+    },
+    {
+      "roster_no": 26,
+      "name": "진보경",
+      "current_grade": 3,
+      "current_student_id": "30826",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 7,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 8,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 27,
+          "student_id": "10827"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 8,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 6,
+            "unexcused": 1,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 4,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 2,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 4,
+          "student_no": 25,
+          "student_id": "20425"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 26,
+          "student_id": "30826"
+        }
+      ],
+      "student_key": "30826진보경"
+    },
+    {
+      "roster_no": 27,
+      "name": "하윤서",
+      "current_grade": 3,
+      "current_student_id": "30827",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 9,
+          "student_no": 30,
+          "student_id": "10930"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 8,
+          "student_no": 28,
+          "student_id": "20828"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 27,
+          "student_id": "30827"
+        }
+      ],
+      "student_key": "30827하윤서"
+    },
+    {
+      "roster_no": 28,
+      "name": "황지우",
+      "current_grade": 3,
+      "current_student_id": "30828",
+      "records": [
+        {
+          "school_grade": 1,
+          "school_days": 190,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": "개근",
+          "class_no": 3,
+          "student_no": 31,
+          "student_id": "10331"
+        },
+        {
+          "school_grade": 2,
+          "school_days": 190,
+          "absence": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 1,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 3,
+          "student_no": 30,
+          "student_id": "20330"
+        },
+        {
+          "school_grade": 3,
+          "school_days": 0,
+          "absence": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "late": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "early_leave": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "result": {
+            "sick": 0,
+            "unexcused": 0,
+            "other": 0
+          },
+          "note": null,
+          "class_no": 8,
+          "student_no": 28,
+          "student_id": "30828"
+        }
+      ],
+      "student_key": "30828황지우"
+    }
+  ]
+}

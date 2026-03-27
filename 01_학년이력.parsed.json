@@ -1,0 +1,860 @@
+{
+  "meta": {
+    "source_file": "01_학년이력.csv",
+    "export_date": "2026.03.13",
+    "school_name": "금옥여자고등학교",
+    "class_grade": 3,
+    "class_no": 8,
+    "user": "김정근"
+  },
+  "students": [
+    {
+      "roster_no": 1,
+      "name": "권하윤",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 1,
+      "student_id": "30801",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 4,
+          "student_no": 2,
+          "homeroom_teacher": "강명숙"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 6,
+          "student_no": 2,
+          "homeroom_teacher": "최승연"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 1,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30801권하윤"
+    },
+    {
+      "roster_no": 2,
+      "name": "김민성",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 2,
+      "student_id": "30802",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 1,
+          "student_no": 5,
+          "homeroom_teacher": "김선아"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 2,
+          "student_no": 3,
+          "homeroom_teacher": "곽승일"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 2,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30802김민성"
+    },
+    {
+      "roster_no": 3,
+      "name": "김보경",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 3,
+      "student_id": "30803",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 3,
+          "student_no": 1,
+          "homeroom_teacher": "한수희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 3,
+          "student_no": 6,
+          "homeroom_teacher": "장신미"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 3,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30803김보경"
+    },
+    {
+      "roster_no": 4,
+      "name": "김해림",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 4,
+      "student_id": "30804",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 7,
+          "student_no": 5,
+          "homeroom_teacher": "윤경희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 5,
+          "student_no": 6,
+          "homeroom_teacher": "윤은하"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 4,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30804김해림"
+    },
+    {
+      "roster_no": 5,
+      "name": "김희영",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 5,
+      "student_id": "30805",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 8,
+          "student_no": 11,
+          "homeroom_teacher": "박상은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 2,
+          "student_no": 6,
+          "homeroom_teacher": "곽승일"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 5,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30805김희영"
+    },
+    {
+      "roster_no": 6,
+      "name": "나세현",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 6,
+      "student_id": "30806",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 8,
+          "student_no": 12,
+          "homeroom_teacher": "박상은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 8,
+          "student_no": 7,
+          "homeroom_teacher": "최태상"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 8,
+          "student_no": 7,
+          "homeroom_teacher": "김미경"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 6,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30806나세현"
+    },
+    {
+      "roster_no": 7,
+      "name": "남유현",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 7,
+      "student_id": "30807",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 3,
+          "student_no": 4,
+          "homeroom_teacher": "한수희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 6,
+          "student_no": 10,
+          "homeroom_teacher": "최승연"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 7,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30807남유현"
+    },
+    {
+      "roster_no": 8,
+      "name": "두은영",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 8,
+      "student_id": "30808",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 2,
+          "student_no": 7,
+          "homeroom_teacher": "황보미"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 6,
+          "student_no": 11,
+          "homeroom_teacher": "최승연"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 8,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30808두은영"
+    },
+    {
+      "roster_no": 9,
+      "name": "문예진",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 9,
+      "student_id": "30809",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 2,
+          "student_no": 8,
+          "homeroom_teacher": "황보미"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 6,
+          "student_no": 12,
+          "homeroom_teacher": "최승연"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 9,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30809문예진"
+    },
+    {
+      "roster_no": 10,
+      "name": "박송희",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 10,
+      "student_id": "30810",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 8,
+          "student_no": 14,
+          "homeroom_teacher": "박상은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 5,
+          "student_no": 10,
+          "homeroom_teacher": "윤은하"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 10,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30810박송희"
+    },
+    {
+      "roster_no": 11,
+      "name": "박시원",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 11,
+      "student_id": "30811",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 2,
+          "student_no": 11,
+          "homeroom_teacher": "황보미"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 9,
+          "student_no": 8,
+          "homeroom_teacher": "김지연"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 9,
+          "student_no": 8,
+          "homeroom_teacher": "강담"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 11,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30811박시원"
+    },
+    {
+      "roster_no": 12,
+      "name": "박정현",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 12,
+      "student_id": "30812",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 6,
+          "student_no": 9,
+          "homeroom_teacher": "정수은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 6,
+          "student_no": 14,
+          "homeroom_teacher": "최승연"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 12,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30812박정현"
+    },
+    {
+      "roster_no": 13,
+      "name": "서민채",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 13,
+      "student_id": "30813",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 9,
+          "student_no": 15,
+          "homeroom_teacher": "민태옥"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 5,
+          "student_no": 11,
+          "homeroom_teacher": "윤은하"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 13,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30813서민채"
+    },
+    {
+      "roster_no": 14,
+      "name": "서예은",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 14,
+      "student_id": "30814",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 7,
+          "student_no": 10,
+          "homeroom_teacher": "윤경희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 2,
+          "student_no": 12,
+          "homeroom_teacher": "곽승일"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 14,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30814서예은"
+    },
+    {
+      "roster_no": 15,
+      "name": "서현진",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 15,
+      "student_id": "30815",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 3,
+          "student_no": 10,
+          "homeroom_teacher": "한수희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 6,
+          "student_no": 15,
+          "homeroom_teacher": "최승연"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 15,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30815서현진"
+    },
+    {
+      "roster_no": 16,
+      "name": "선예린",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 16,
+      "student_id": "30816",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 1,
+          "student_no": 14,
+          "homeroom_teacher": "김선아"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 7,
+          "student_no": 15,
+          "homeroom_teacher": "김선아"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 16,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30816선예린"
+    },
+    {
+      "roster_no": 17,
+      "name": "송효주",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 17,
+      "student_id": "30817",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 4,
+          "student_no": 9,
+          "homeroom_teacher": "강명숙"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 6,
+          "student_no": 16,
+          "homeroom_teacher": "최승연"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 17,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30817송효주"
+    },
+    {
+      "roster_no": 18,
+      "name": "오규리",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 18,
+      "student_id": "30818",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 6,
+          "student_no": 15,
+          "homeroom_teacher": "정수은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 1,
+          "student_no": 16,
+          "homeroom_teacher": "이현경"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 18,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30818오규리"
+    },
+    {
+      "roster_no": 19,
+      "name": "오윤아",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 19,
+      "student_id": "30819",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 7,
+          "student_no": 15,
+          "homeroom_teacher": "윤경희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 4,
+          "student_no": 12,
+          "homeroom_teacher": "김혜영"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 19,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30819오윤아"
+    },
+    {
+      "roster_no": 20,
+      "name": "이지유",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 20,
+      "student_id": "30820",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 7,
+          "student_no": 23,
+          "homeroom_teacher": "윤경희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 9,
+          "student_no": 18,
+          "homeroom_teacher": "김지연"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 9,
+          "student_no": 18,
+          "homeroom_teacher": "강담"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 20,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30820이지유"
+    },
+    {
+      "roster_no": 21,
+      "name": "장윤아",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 21,
+      "student_id": "30821",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 7,
+          "student_no": 26,
+          "homeroom_teacher": "윤경희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 2,
+          "student_no": 21,
+          "homeroom_teacher": "곽승일"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 21,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30821장윤아"
+    },
+    {
+      "roster_no": 22,
+      "name": "정시후",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 22,
+      "student_id": "30822",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 6,
+          "student_no": 24,
+          "homeroom_teacher": "정수은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 5,
+          "student_no": 25,
+          "homeroom_teacher": "윤은하"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 22,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30822정시후"
+    },
+    {
+      "roster_no": 23,
+      "name": "정지애",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 23,
+      "student_id": "30823",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 6,
+          "student_no": 26,
+          "homeroom_teacher": "정수은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 3,
+          "student_no": 27,
+          "homeroom_teacher": "장신미"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 23,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30823정지애"
+    },
+    {
+      "roster_no": 24,
+      "name": "정채윤",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 24,
+      "student_id": "30824",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 1,
+          "student_no": 25,
+          "homeroom_teacher": "김선아"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 9,
+          "student_no": 23,
+          "homeroom_teacher": "김지연"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 9,
+          "student_no": 23,
+          "homeroom_teacher": "강담"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 24,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30824정채윤"
+    },
+    {
+      "roster_no": 25,
+      "name": "주은정",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 25,
+      "student_id": "30825",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 4,
+          "student_no": 28,
+          "homeroom_teacher": "강명숙"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 5,
+          "student_no": 27,
+          "homeroom_teacher": "윤은하"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 25,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30825주은정"
+    },
+    {
+      "roster_no": 26,
+      "name": "진보경",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 26,
+      "student_id": "30826",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 8,
+          "student_no": 27,
+          "homeroom_teacher": "박상은"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 4,
+          "student_no": 25,
+          "homeroom_teacher": "김혜영"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 26,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30826진보경"
+    },
+    {
+      "roster_no": 27,
+      "name": "하윤서",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 27,
+      "student_id": "30827",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 9,
+          "student_no": 30,
+          "homeroom_teacher": "민태옥"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 8,
+          "student_no": 28,
+          "homeroom_teacher": "최태상"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 8,
+          "student_no": 28,
+          "homeroom_teacher": "김미경"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 27,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30827하윤서"
+    },
+    {
+      "roster_no": 28,
+      "name": "황지우",
+      "current_grade": 3,
+      "current_class": 8,
+      "current_no": 28,
+      "student_id": "30828",
+      "entries": [
+        {
+          "school_grade": 1,
+          "class_no": 5,
+          "student_no": 25,
+          "homeroom_teacher": "백연재"
+        },
+        {
+          "school_grade": 1,
+          "class_no": 3,
+          "student_no": 31,
+          "homeroom_teacher": "한수희"
+        },
+        {
+          "school_grade": 2,
+          "class_no": 3,
+          "student_no": 30,
+          "homeroom_teacher": "장신미"
+        },
+        {
+          "school_grade": 3,
+          "class_no": 8,
+          "student_no": 28,
+          "homeroom_teacher": "김정근"
+        }
+      ],
+      "student_key": "30828황지우"
+    }
+  ]
+}
